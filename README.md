@@ -11,6 +11,7 @@ This repo uses public dataset provided by ALFFA_PUBLIC https://github.com/besaci
  - .dvc  folder contains our versioned data information 
  - scripts folder contains all python file we have you used to implement amharic speech to text package 
  - test folder contains test implemntation for some of the functions
- - 
+ #####
+ 
 
 
