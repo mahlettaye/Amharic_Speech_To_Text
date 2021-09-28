@@ -3,6 +3,9 @@ import logging
 
 
 def log_writer(message):
+    """ 
+    Log wirter function for speech to text application 
+    """
     logger=logging.getLogger(__name__)
 
     logger.setLevel(logging.INFO)
